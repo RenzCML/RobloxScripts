@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RenzCML/RobloxScripts/main/SPFS%20Source", true))()
 for i =1, getgenv().speed_MAY_INCREASE_LAG_IF_TOO_HIGH do
 ([[
                      		   This script was obfuscated using ActualShitFuscator.
